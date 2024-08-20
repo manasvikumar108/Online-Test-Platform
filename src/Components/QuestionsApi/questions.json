@@ -1,0 +1,206 @@
+{
+    "quant": [
+        {
+            "question": "What is the area of a circle with radius 5?",
+            "options": [
+                "25π",
+                "50π",
+                "75π",
+                "100π"
+            ],
+            "correct_option": "25π"
+        },
+        {
+            "question": "If x + y = 10 and xy = 24, what is the value of x^2 + y^2?",
+            "options": [
+                "32",
+                "64",
+                "100",
+                "128"
+            ],
+            "correct_option": "52"
+        },
+        {
+            "question": "A train travels at a speed of 60 km/h. How long will it take to cover a distance of 360 km?",
+            "options": [
+                "3 hours",
+                "4 hours",
+                "5 hours",
+                "6 hours"
+            ],
+            "correct_option": "6 hours"
+        },
+        {
+            "question": "If the simple interest on a certain sum of money for 2 years at 6% per annum is ₹120, find the principal.",
+            "options": [
+                "₹1000",
+                "₹1200",
+                "₹1500",
+                "₹2000"
+            ],
+            "correct_option": "₹1000"
+        },
+        {
+            "question": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+            "options": [
+                "22",
+                "24",
+                "26",
+                "28"
+            ],
+            "correct_option": "28"
+        },
+        {
+            "question": "If the cost price of an article is ₹500 and it is sold at a profit of 20%, what is the selling price?",
+            "options": [
+                "₹600",
+                "₹700",
+                "₹800",
+                "₹900"
+            ],
+            "correct_option": "₹600"
+        },
+        {
+            "question": "The ratio of boys to girls in a class is 3:2. If there are 24 boys, how many girls are there?",
+            "options": [
+                "12",
+                "16",
+                "18",
+                "20"
+            ],
+            "correct_option": "16"
+        },
+        {
+            "question": "The HCF of 12, 18, and 24 is:",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ],
+            "correct_option": "6"
+        },
+        {
+            "question": "If the perimeter of a square is 36 cm, what is its area?",
+            "options": [
+                "81 cm²",
+                "64 cm²",
+                "49 cm²",
+                "36 cm²"
+            ],
+            "correct_option": "81 cm²"
+        },
+        {
+            "question": "If a = 3 and b = 4, what is the value of a^2 + b^2 - 2ab?",
+            "options": [
+                "1",
+                "7",
+                "25",
+                "49"
+            ],
+            "correct_option": "1"
+        }
+    ],
+    "verbal": [
+        {
+            "question": "What is the synonym of 'tenacious'?",
+            "options": [
+                "lazy",
+                "persistent",
+                "weak",
+                "uncertain"
+            ],
+            "correct_option": "persistent"
+        },
+        {
+            "question": "Choose the antonym of 'belligerent'.",
+            "options": [
+                "peaceful",
+                "aggressive",
+                "hostile",
+                "combative"
+            ],
+            "correct_option": "peaceful"
+        },
+        {
+            "question": "Which word means 'to speak or write in a pompous or inflated way'?",
+            "options": [
+                "eloquent",
+                "bombastic",
+                "concise",
+                "laconic"
+            ],
+            "correct_option": "bombastic"
+        },
+        {
+            "question": "What is the meaning of the idiom 'to beat around the bush'?",
+            "options": [
+                "to be direct and to the point",
+                "to avoid talking about the important issue",
+                "to be very angry",
+                "to be very happy"
+            ],
+            "correct_option": "to avoid talking about the important issue"
+        },
+        {
+            "question": "Which word is a synonym for 'frugal'?",
+            "options": [
+                "wasteful",
+                "extravagant",
+                "thrifty",
+                "generous"
+            ],
+            "correct_option": "thrifty"
+        },
+        {
+            "question": "Choose the antonym of 'reticent'.",
+            "options": [
+                "talkative",
+                "quiet",
+                "reserved",
+                "shy"
+            ],
+            "correct_option": "talkative"
+        },
+        {
+            "question": "Which word means 'to make something worse'?",
+            "options": [
+                "ameliorate",
+                "exacerbate",
+                "mitigate",
+                "alleviate"
+            ],
+            "correct_option": "exacerbate"
+        },
+        {
+            "question": "What is the meaning of the idiom 'to spill the beans'?",
+            "options": [
+                "to reveal a secret",
+                "to be very angry",
+                "to be very happy",
+                "to be very tired"
+            ],
+            "correct_option": "to reveal a secret"
+        },
+        {
+            "question": "Which word is a synonym for 'audacious'?",
+            "options": [
+                "timid",
+                "shy",
+                "bold",
+                "hesitant"
+            ],
+            "correct_option": "bold"
+        },
+        {
+            "question": "Choose the antonym of 'indifferent'.",
+            "options": [
+                "concerned",
+                "uninterested",
+                "apathetic",
+                "casual"
+            ],
+            "correct_option": "concerned"
+        }
+    ]
+}

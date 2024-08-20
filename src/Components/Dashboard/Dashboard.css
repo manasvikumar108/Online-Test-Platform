@@ -1,0 +1,19 @@
+#main{
+    display:flex;
+    flex-direction: row;
+    height:100vh;
+
+}
+#right{
+    display:flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: rgb(245 245 245);
+    
+
+}
+#left{
+    display:flex;
+    flex-direction: column;
+    width: 75%;
+}
